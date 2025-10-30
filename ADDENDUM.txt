@@ -1,0 +1,9 @@
+Additional Terms – Commercial‑Use Restriction
+-------------------------------------------------
+The software may not be sold, sublicensed, or otherwise
+distributed for a fee, except under a separate commercial
+licence granted by the copyright holder.
+
+This restriction applies in addition to the terms of the
+GNU General Public License v3.0 (GPL‑v3) that governs the
+rest of the repository.
