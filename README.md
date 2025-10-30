@@ -1,10 +1,10 @@
 # **NavinoAR_android**
 
-**_NavinoAR - Privacy focused Open Source Offline Indoor AR Navigation App for android smart phones_**
+**_android version of NavinoAR - Privacy focused Open Source Offline Indoor AR Navigation App for smart phones_**
 
 ---
 
-## 📄 License
+## License
 
 This project is released under the **GNU General Public License v3.0 (GPL‑v3)**.  
 Full licence text can be found in the file [`LICENSE`](LICENSE) and online at:
@@ -18,7 +18,7 @@ Full licence text can be found in the file [`LICENSE`](LICENSE) and online at:
 
 ---
 
-## 🙏 Attribution
+## Attribution
 
 The code in this repository incorporates parts of the following open‑source projects:
 
@@ -31,11 +31,11 @@ All attributions are collected in the file [`THIRD-PARTY.md`](THIRD-PARTY.md).
 
 ---
 
-## 📦 Getting Started *(will be updated when ready)*  
+## Getting Started *(will be updated when ready)*  
 
 *You can find Build, Installation, and Usage Instructions here when the code is ready.*
 
 ---  
 
-*© 2025 [Md Zunaed Alam Tanim]*  
+*© 2025 Md Zunaed Alam Tanim*  
 *All rights reserved under the GPL‑v3 licence.*
