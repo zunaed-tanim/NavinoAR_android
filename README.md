@@ -1,4 +1,4 @@
-# **NavinoAR_android**
+# **NavinoAR**
 
 **_android version of NavinoAR - Privacy focused Open Source Offline Indoor AR Navigation App for smart phones_**
 
