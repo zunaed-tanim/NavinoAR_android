@@ -1,16 +1,55 @@
-# Godot 4+ specific ignores
-.godot/
-.nomedia
-
-# Godot-specific ignores
+# --------------------------------------------------------------
+# Godot-generated files – never commit these
+# --------------------------------------------------------------
 .import/
-export.cfg
-export_credentials.cfg
+.export/
+.editor/
+.godot/
+*.import
+*.tmp
+*.log
+*.import
+*.cfg
+*.pck
+*.zip
 
-# Imported translations (automatically generated from CSV files)
-*.translation
+# Godot 4+ specific ignores
+.nomedia
 
 # Mono-specific ignores
 .mono/
 data_*/
 mono_crash.*.json
+
+# Imported translations (automatically generated from CSV files)
+*.translation
+
+# Exported binaries (Windows, macOS, Linux, Android, iOS, etc.)
+*.exe
+*.apk
+*.aab
+*.ipa
+*.dmg
+*.app
+*.xcodeproj
+*.xcworkspace
+*.xcuserdata
+*.gradle
+*.keystore
+
+# OS‑specific clutter
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE / editor folders
+.vscode/
+.idea/
+
+# Git LFS lock files (generated locally, safe to ignore)
+*.lock
+
+# Ignore auto‑generated docs or build artefacts
+doc/
+build/
